@@ -1,8 +1,3 @@
-'''
-Name: Maithili Deshpande
-Student ID: 1001230528
-Programming assignment 1
-'''
 
 
 import os
